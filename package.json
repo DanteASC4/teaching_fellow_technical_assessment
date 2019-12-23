@@ -1,0 +1,14 @@
+{
+  "name": "teachingFellows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts" : {
+    "test_string"  : "jest tests/string_cleaning.test.js",
+    "test_fizz"    : "jest tests/fizzbuzz.test.js",
+    "test_garble"  : "jest tests/garble.test.js"
+  }
+}
