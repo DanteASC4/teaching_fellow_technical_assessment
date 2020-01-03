@@ -7,8 +7,8 @@
     "jest": "^24.9.0"
   },
   "scripts" : {
-    "test_string"  : "jest tests/string_cleaning.test.js",
+    "test_string"  : "jest tests/stringcleaning.test.js",
     "test_fizz"    : "jest tests/fizzbuzz.test.js",
-    "test_garble"  : "jest tests/garble.test.js"
+    "test_odd"  : "jest tests/oddoneout.test.js"
   }
 }

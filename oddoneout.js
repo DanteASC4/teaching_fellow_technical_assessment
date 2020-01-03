@@ -1,7 +1,7 @@
-function garble(strOrArr){
+function oddOneOut(arrOfInts){
     // Your code here!
 }
 
 
 // DON'T EDIT THE LINE BELOW THIS COMMENT
-module.exports = garble;
+module.exports = oddOneOut;
